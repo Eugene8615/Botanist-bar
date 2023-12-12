@@ -1,0 +1,20 @@
+/* Header.css */
+.header {
+  color: #fff;
+    padding: 10px;
+    align-items: center;
+    display: flex;
+    position: absolute;
+    z-index: 1;
+    width: -webkit-fill-available;
+  }
+  
+  .logo {
+    width: 100px;
+  }
+
+  .basket {
+  margin-left: auto;
+   width: 34px;
+  }
+  
