@@ -11,7 +11,9 @@ import Zombi from './images/zombi.png';
 import WatermelonSour from './images/watermelon.jpg';
 import Bramble from './images/Brumble.png';
 import AperolSpritz from './images/апероль.png';
-import MartiniAsti from './images/mfrtini-asti.png';
+import MartiniAsti from './images/depositphotos_174920712-stock-photo-london-uk-november-24-2017.png';
+import Absolut from './images/absolutvodka700ml_1024x1024.png'
+import Finlandia from './images/finlandia-05l.png'
 
 const BarAreaPage = () => {
   const [activeCategory, setActiveCategory] = useState('COCKTAILS');
@@ -170,17 +172,17 @@ const BarAreaPage = () => {
         case 'Горілка':
         return (
           <ul>
-        <li className='bar-items'><img src={MartiniAsti} alt='GREEN DAY' className='bar-img'/><p>GREEN DAY</p>
-        <p  className='price'>220₴</p>
-        </li>
-        <li className='bar-items'><img src={MartiniAsti} alt='NEMIROFF' className='bar-img'/><p>NEMIROFF</p>
-        <p  className='price'>250₴</p>
-        </li>
-        <li className='bar-items'><img src={MartiniAsti} alt='FINLANDIA' className='bar-img'/><p>FINLANDIA</p>
+        <li className='bar-items'><img src={Finlandia} alt='FINLANDIA' className='bar-img'/><p>FINLANDIA</p>
         <p  className='price'>600₴</p>
         </li>
-        <li className='bar-items'><img src={MartiniAsti} alt='ABSOLUTE' className='bar-img'/><p>ABSOLUTE</p>
+        <li className='bar-items'><img src={Absolut} alt='ABSOLUTE' className='bar-img'/><p>ABSOLUTE</p>
         <p  className='price'>650₴</p>
+        </li>
+        <li className='bar-items bar-items2'><p>GREEN DAY</p>
+        <p  className='price'>220₴</p>
+        </li>
+        <li className='bar-items bar-items2'><p>NEMIROFF</p>
+        <p  className='price'>250₴</p>
         </li>
       </ul>
         );

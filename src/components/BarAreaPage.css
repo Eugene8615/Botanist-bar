@@ -68,3 +68,7 @@ p {
 .description-dish{
     font-size: 15px;
 }
+
+.bar-items2 {
+    align-items: center;
+}
