@@ -28,7 +28,7 @@ const Header = () => {
         {/* Здесь вы можете разместить содержимое модального окна */}
         <img src={icon} alt="Ресторанная иконка" className='logo-menu' />
         <ul className='burger-menu-list'>
-        <Link to="/"><li className='burger-list-item'><p className='burger-menu-text'>Головна</p></li></Link>
+        <Link to="/botanist-bar"><li className='burger-list-item'><p className='burger-menu-text'>Головна</p></li></Link>
         <Link to="/category/kitchen-area"><li className='burger-list-item'><p className='burger-menu-text'>Кухня</p></li></Link>
         <Link to="/category/bar-area"><li className='burger-list-item'><p className='burger-menu-text'>Бар</p></li></Link>
         </ul>
