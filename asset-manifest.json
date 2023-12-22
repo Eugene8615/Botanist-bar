@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Botanist-bar/static/css/main.6d547397.css",
-    "main.js": "/Botanist-bar/static/js/main.daec81d9.js",
+    "main.css": "/Botanist-bar/static/css/main.1c5e97ae.css",
+    "main.js": "/Botanist-bar/static/js/main.041a9479.js",
     "static/media/PSX_20220216_205806.jpg": "/Botanist-bar/static/media/PSX_20220216_205806.1fdd10c774513eef7b6a.jpg",
     "static/media/zombi.png": "/Botanist-bar/static/media/zombi.2ad30d8daf159b290c66.png",
     "static/media/godfather.png": "/Botanist-bar/static/media/godfather.f0d10811d08fbdfe7a1c.png",
@@ -22,7 +22,7 @@
     "static/media/photo_2023-11-11_11-10-53.jpg": "/Botanist-bar/static/media/photo_2023-11-11_11-10-53.7a13f13a8d8bc42a40bd.jpg",
     "static/media/watermelon.jpg": "/Botanist-bar/static/media/watermelon.90a54ade61d534b8f747.jpg",
     "static/media/2029768.png": "/Botanist-bar/static/media/2029768.b5b9787af752bcd1305d.png",
-    "static/media/logo.svg": "/Botanist-bar/static/media/logo.1f1fecc2aefd120fdaf7c4579869c3b3.svg",
+    "static/media/logo.svg": "/Botanist-bar/static/media/logo.b4ecaf89f9d457047bff4f65b3273633.svg",
     "static/media/IMG.png": "/Botanist-bar/static/media/IMG.ffa2e8324e65839a1a33.png",
     "static/media/bar-icon.svg": "/Botanist-bar/static/media/bar-icon.f30a89e4b3acf4d5c5df34b5485ac9b9.svg",
     "static/media/kitchen-pack.svg": "/Botanist-bar/static/media/kitchen-pack.41cc489b863729ac7cbe540bef7ad346.svg",
@@ -33,11 +33,11 @@
     "static/media/burger-menu.svg": "/Botanist-bar/static/media/burger-menu.4314f4b4a3de9dc18f818a9606c12bf9.svg",
     "static/media/cross.svg": "/Botanist-bar/static/media/cross.430e9fbd872916eed69f49417d19d8cf.svg",
     "static/media/arrow.svg": "/Botanist-bar/static/media/arrow.268412136fbfce006ce355cc3301e836.svg",
-    "main.6d547397.css.map": "/Botanist-bar/static/css/main.6d547397.css.map",
-    "main.daec81d9.js.map": "/Botanist-bar/static/js/main.daec81d9.js.map"
+    "main.1c5e97ae.css.map": "/Botanist-bar/static/css/main.1c5e97ae.css.map",
+    "main.041a9479.js.map": "/Botanist-bar/static/js/main.041a9479.js.map"
   },
   "entrypoints": [
-    "static/css/main.6d547397.css",
-    "static/js/main.daec81d9.js"
+    "static/css/main.1c5e97ae.css",
+    "static/js/main.041a9479.js"
   ]
 }
