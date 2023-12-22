@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Botanist-bar/static/css/main.6abcf161.css",
-    "main.js": "/Botanist-bar/static/js/main.8eb373d3.js",
+    "main.js": "/Botanist-bar/static/js/main.59da25b4.js",
     "static/media/PSX_20220216_205806.jpg": "/Botanist-bar/static/media/PSX_20220216_205806.1fdd10c774513eef7b6a.jpg",
     "static/media/zombi.png": "/Botanist-bar/static/media/zombi.2ad30d8daf159b290c66.png",
     "static/media/godfather.png": "/Botanist-bar/static/media/godfather.f0d10811d08fbdfe7a1c.png",
@@ -31,10 +31,10 @@
     "static/media/cross.svg": "/Botanist-bar/static/media/cross.430e9fbd872916eed69f49417d19d8cf.svg",
     "static/media/arrow.svg": "/Botanist-bar/static/media/arrow.268412136fbfce006ce355cc3301e836.svg",
     "main.6abcf161.css.map": "/Botanist-bar/static/css/main.6abcf161.css.map",
-    "main.8eb373d3.js.map": "/Botanist-bar/static/js/main.8eb373d3.js.map"
+    "main.59da25b4.js.map": "/Botanist-bar/static/js/main.59da25b4.js.map"
   },
   "entrypoints": [
     "static/css/main.6abcf161.css",
-    "static/js/main.8eb373d3.js"
+    "static/js/main.59da25b4.js"
   ]
 }
