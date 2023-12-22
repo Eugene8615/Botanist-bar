@@ -8,19 +8,18 @@ import ArrowIcon from './images/arrow.svg'
 
 const MenuSection = () => {
   return (
-    <Link to="/botanist-bar">
     <section className="menu">
       <div className="container">
         <h1 className='menu-text'>Меню</h1>
         <div className="menu-items">
-        <Link to="/category/kitchen-area">
+        <Link to="/botanist-bar/kitchen-area">
           <div className="items">
               <img src={KitchenPack} alt="кухонна зона" className="menu-img" />
               <h2 className="items-name">Кухня</h2>   
               <img src={ArrowIcon} alt='стрілка' className='arrow-icon'/>  
           </div>
           </Link>
-          <Link to="/category/bar-area">
+          <Link to="/botanist-bar/bar-area">
           <div className="items">
               <img src={BarIcon} alt="барна зона" className="menu-img" />
               <h2 className="items-name">Бар</h2>
@@ -30,7 +29,6 @@ const MenuSection = () => {
         </div>
       </div>
     </section>
-    </Link>
   );
 }
 

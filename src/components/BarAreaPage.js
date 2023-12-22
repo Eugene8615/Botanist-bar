@@ -14,6 +14,7 @@ import AperolSpritz from './images/апероль.png';
 import MartiniAsti from './images/depositphotos_174920712-stock-photo-london-uk-november-24-2017.png';
 import Absolut from './images/absolutvodka700ml_1024x1024.png'
 import Finlandia from './images/finlandia-05l.png'
+import MartiniRoyalBsanco from './images/10459184.png'
 
 const BarAreaPage = () => {
   const [activeCategory, setActiveCategory] = useState('COCKTAILS');
@@ -158,7 +159,7 @@ const BarAreaPage = () => {
         <li className='bar-items'><img src={MartiniAsti} alt='MARTINI ASTI' className='bar-img'/><p>MARTINI ASTI</p>
         <p  className='price'>800₴</p>
         </li>
-        <li className='bar-items'><img src={MartiniAsti} alt='MARTINI ROYAL BIANCO' className='bar-img'/><p>MARTINI ROYAL BIANCO</p>
+        <li className='bar-items'><img src={MartiniRoyalBsanco} alt='MARTINI ROYAL BIANCO' className='bar-img'/><p>MARTINI ROYAL BIANCO</p>
         <p  className='price'>700₴</p>
         </li>
         <li className='bar-items'><img src={MartiniAsti} alt='FRAGOLINO BIANCO' className='bar-img'/><p>FRAGOLINO BIANCO</p>

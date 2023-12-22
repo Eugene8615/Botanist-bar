@@ -29,8 +29,8 @@ const Header = () => {
         <img src={icon} alt="Ресторанная иконка" className='logo-menu' />
         <ul className='burger-menu-list'>
         <Link to="/botanist-bar"><li className='burger-list-item'><p className='burger-menu-text'>Головна</p></li></Link>
-        <Link to="/category/kitchen-area"><li className='burger-list-item'><p className='burger-menu-text'>Кухня</p></li></Link>
-        <Link to="/category/bar-area"><li className='burger-list-item'><p className='burger-menu-text'>Бар</p></li></Link>
+        <Link to="/botanist-bar/kitchen-area"><li className='burger-list-item'><p className='burger-menu-text'>Кухня</p></li></Link>
+        <Link to="/botanist-bar/bar-area"><li className='burger-list-item'><p className='burger-menu-text'>Бар</p></li></Link>
         </ul>
         {/* Кнопка для закрытия модального окна */}
         <img src={icon3} alt='cross' className='cross-btn' onClick={() => setIsModalOpen(false)}/>

@@ -15,7 +15,7 @@ function App() {
           <Slider />
           <Routes>
             <Route path="/botanist-bar" element={<MenuSection />} />
-            <Route path="/category/:categoryId" element={<CategoryPage />} />
+            <Route path="/botanist-bar/:categoryId" element={<CategoryPage />} />
           </Routes>
           <Footer />
         </div>
