@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Botanist-bar/static/css/main.6abcf161.css",
-    "main.js": "/Botanist-bar/static/js/main.59da25b4.js",
+    "main.css": "/Botanist-bar/static/css/main.6d547397.css",
+    "main.js": "/Botanist-bar/static/js/main.0d9db0dc.js",
     "static/media/PSX_20220216_205806.jpg": "/Botanist-bar/static/media/PSX_20220216_205806.1fdd10c774513eef7b6a.jpg",
     "static/media/zombi.png": "/Botanist-bar/static/media/zombi.2ad30d8daf159b290c66.png",
     "static/media/godfather.png": "/Botanist-bar/static/media/godfather.f0d10811d08fbdfe7a1c.png",
@@ -13,10 +13,13 @@
     "static/media/Джангл Джус.png": "/Botanist-bar/static/media/Джангл Джус.f7eb7eacc9dda62d8de9.png",
     "static/media/Кловер клаб.png": "/Botanist-bar/static/media/Кловер клаб.96968513cd51c72f3b04.png",
     "static/media/апероль.png": "/Botanist-bar/static/media/апероль.381800741c8bdb76992e.png",
-    "static/media/photo_2023-11-11_11-00-00.jpg": "/Botanist-bar/static/media/photo_2023-11-11_11-00-00.36b6594f2fdb895d212d.jpg",
+    "static/media/absolutvodka700ml_1024x1024.png": "/Botanist-bar/static/media/absolutvodka700ml_1024x1024.1f3778213075ac5dbca8.png",
+    "static/media/10459184.png": "/Botanist-bar/static/media/10459184.59d16c8bea96e24c057a.png",
     "static/media/photo_2023-11-11_11-11-29.jpg": "/Botanist-bar/static/media/photo_2023-11-11_11-11-29.bdd51b667caabbcf8fc9.jpg",
+    "static/media/photo_2023-11-11_11-00-00.jpg": "/Botanist-bar/static/media/photo_2023-11-11_11-00-00.54602eff834caef778e4.jpg",
+    "static/media/finlandia-05l.png": "/Botanist-bar/static/media/finlandia-05l.565d9e13ffd3e91d197e.png",
+    "static/media/depositphotos_174920712-stock-photo-london-uk-november-24-2017.png": "/Botanist-bar/static/media/depositphotos_174920712-stock-photo-london-uk-november-24-2017.b79be1b7a634ac9c4160.png",
     "static/media/photo_2023-11-11_11-10-53.jpg": "/Botanist-bar/static/media/photo_2023-11-11_11-10-53.7a13f13a8d8bc42a40bd.jpg",
-    "static/media/mfrtini-asti.png": "/Botanist-bar/static/media/mfrtini-asti.4b8d6547205ae2ba9784.png",
     "static/media/watermelon.jpg": "/Botanist-bar/static/media/watermelon.90a54ade61d534b8f747.jpg",
     "static/media/2029768.png": "/Botanist-bar/static/media/2029768.b5b9787af752bcd1305d.png",
     "static/media/logo.svg": "/Botanist-bar/static/media/logo.1f1fecc2aefd120fdaf7c4579869c3b3.svg",
@@ -30,11 +33,11 @@
     "static/media/burger-menu.svg": "/Botanist-bar/static/media/burger-menu.4314f4b4a3de9dc18f818a9606c12bf9.svg",
     "static/media/cross.svg": "/Botanist-bar/static/media/cross.430e9fbd872916eed69f49417d19d8cf.svg",
     "static/media/arrow.svg": "/Botanist-bar/static/media/arrow.268412136fbfce006ce355cc3301e836.svg",
-    "main.6abcf161.css.map": "/Botanist-bar/static/css/main.6abcf161.css.map",
-    "main.59da25b4.js.map": "/Botanist-bar/static/js/main.59da25b4.js.map"
+    "main.6d547397.css.map": "/Botanist-bar/static/css/main.6d547397.css.map",
+    "main.0d9db0dc.js.map": "/Botanist-bar/static/js/main.0d9db0dc.js.map"
   },
   "entrypoints": [
-    "static/css/main.6abcf161.css",
-    "static/js/main.59da25b4.js"
+    "static/css/main.6d547397.css",
+    "static/js/main.0d9db0dc.js"
   ]
 }
